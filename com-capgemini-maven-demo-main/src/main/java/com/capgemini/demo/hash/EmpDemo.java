@@ -13,7 +13,7 @@ public class EmpDemo {
 		System.out.println(emp2.hashCode());
 
 		System.out.println(emp.equals(emp2));
-
+// demo demo demo
 	}
 
 }
